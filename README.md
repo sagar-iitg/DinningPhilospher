@@ -4,6 +4,9 @@
 
 # DinningPhilospher
 
+
+![alt text](./Notes/img.png)
+
 # Pseudo Code 1
 while(true) {
     
