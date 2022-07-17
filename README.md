@@ -1,6 +1,6 @@
 # DinningPhilospher
 
-
+# Pseudo Code
 while(true) {
 // Initially, thinking about life, universe, and everything
 think();
