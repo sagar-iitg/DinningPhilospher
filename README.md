@@ -1,6 +1,6 @@
 # DinningPhilospher
 
-# Pseudo Code
+# Pseudo Code 1
 while(true) {
 // Initially, thinking about life, universe, and everything
 think();
@@ -15,3 +15,17 @@ think();
     // Not hungry anymore. Back to thinking!
 }
 
+# Pseudo Code 2
+
+do{
+    
+    wait(fork[i])
+    wait(fork[(i+1)%5])
+
+    //eat
+    
+    signal(fork[i])
+    signal(fork[(i+1)%5])
+
+    //think
+}while(1)
