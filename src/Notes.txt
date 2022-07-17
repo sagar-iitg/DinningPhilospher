@@ -1,0 +1,5 @@
+https://www.baeldung.com/java-dining-philoshophers#:~:text=The%20Dining%20Philosophers%20problem%20is,computers%20accessing%20tape%20drive%20peripherals.
+
+
+
+
